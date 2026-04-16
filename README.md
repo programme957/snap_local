@@ -2,8 +2,12 @@ snap_local fork
 ===============
 
 intially to enable use of snap on local grids (no projection, geoid etc)
-i have also modified the code for various other personlaly desired enhancements
-i have also made a python GUI for this, dat2site, snapplot and my conversion utilities from LeicaXML.
+
+i have also modified the code for various other personally desired enhancements
+
+i have also made a python GUI for snap_local, dat2site, snapplot and my conversion utilities from LeicaXML.
+
+i'm using claude code
 
 I would like to thank the creators and maintainers of SNAP for their sterling work and for making it open source.
 
