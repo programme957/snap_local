@@ -1,3 +1,12 @@
+snap_local fork 
+===============
+
+intially to enable use of snap on local grids (no projection, geoid etc)
+i have also modified the code for various other personlaly desired enhancements
+i have also made a python GUI for this, dat2site, snapplot and my conversion utilities from LeicaXML.
+
+I would like to thank the creators and maintainers of SNAP for their sterling work and for making it open source.
+
 SNAP survey network adjustment package
 ======================================
 
